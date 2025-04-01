@@ -5,13 +5,13 @@
 
 
 ### **Access the Deployed App**
-Click [here](https://umarskh.github.io/Drum-Kit/) to access the live application.
+Click [here](https://drum-kit-xi-six.vercel.app/) to access the live application.
 
 ---
 
 ## **2. Features**
 - **Responsive drum buttons:** Clicking on a drum button triggers a corresponding drum sound.
-- **Keyboard support:** Pressing certain keys (e.g., `w`, `a`, `s`, etc.) on the keyboard also plays the corresponding drum sound.
+- **Keyboard support:** Pressing certain keys (e.g., `w`, `a`, `s`, etc.) on the keyboard also plays the drum sound.
 - **Visual feedback:** Buttons display an animation when clicked or triggered via the keyboard.
 
 ---
@@ -27,7 +27,7 @@ The app is built using the following technologies:
 ## **4. How to Use**
 
 ### **I. Access the App**
-- For production: Use the deployed URL [here](https://umarskh.github.io/Drum-Kit/).
+- For production: Use the deployed URL [here](https://drum-kit-xi-six.vercel.app/).
 - For development: Open `http://localhost:3000` in your browser.
 
 ---
